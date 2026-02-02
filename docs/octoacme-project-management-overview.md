@@ -20,6 +20,15 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Extended Roles (for complex projects)
+- Release Manager: oversees deployment planning and coordinates release schedules.
+- Risk Champion: proactively identifies, assesses, and communicates risks.
+- Stakeholder Advisor: acts as liaison to ensure stakeholder needs are incorporated.
+- Communications Coordinator: manages project communications and ensures transparency.
+- Quality Assurance Lead: designs test strategies and ensures quality gates are met.
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for detailed descriptions of all roles.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
