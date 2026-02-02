@@ -3,6 +3,12 @@
 ## Purpose
 Standardize how OctoAcme releases features to production to reduce risk and improve observability.
 
+## Release Management Roles
+- **Release Manager**: Oversees deployment planning, coordinates release schedules, and ensures all release criteria are met. Serves as the primary coordinator for the release process.
+- **Quality Assurance Lead**: Provides testing sign-off and coordinates quality validation before release.
+- **Project Manager**: Aligns release timelines with project milestones.
+- **Developers**: Implement features and prepare code for release.
+
 ## Release Types
 - Patch: hotfixes addressing critical production issues
 - Minor: incremental features and improvements
